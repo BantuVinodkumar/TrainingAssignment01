@@ -1,0 +1,8 @@
+C:\Dotnet Assignments\c#\day2assignment 1\day2assignment 1\bin\Debug\day2assignment 1.exe.config
+C:\Dotnet Assignments\c#\day2assignment 1\day2assignment 1\bin\Debug\day2assignment 1.exe
+C:\Dotnet Assignments\c#\day2assignment 1\day2assignment 1\bin\Debug\day2assignment 1.pdb
+C:\Dotnet Assignments\c#\day2assignment 1\day2assignment 1\obj\Debug\day2assignment 1.csproj.AssemblyReference.cache
+C:\Dotnet Assignments\c#\day2assignment 1\day2assignment 1\obj\Debug\day2assignment 1.csproj.SuggestedBindingRedirects.cache
+C:\Dotnet Assignments\c#\day2assignment 1\day2assignment 1\obj\Debug\day2assignment 1.csproj.CoreCompileInputs.cache
+C:\Dotnet Assignments\c#\day2assignment 1\day2assignment 1\obj\Debug\day2assignment 1.exe
+C:\Dotnet Assignments\c#\day2assignment 1\day2assignment 1\obj\Debug\day2assignment 1.pdb
