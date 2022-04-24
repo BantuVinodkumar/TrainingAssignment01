@@ -1,0 +1,8 @@
+C:\Dotnet Assignments\c#\Assignment03\Assignment03\bin\Debug\Assignment03.exe.config
+C:\Dotnet Assignments\c#\Assignment03\Assignment03\bin\Debug\Assignment03.exe
+C:\Dotnet Assignments\c#\Assignment03\Assignment03\bin\Debug\Assignment03.pdb
+C:\Dotnet Assignments\c#\Assignment03\Assignment03\obj\Debug\Assignment03.csproj.AssemblyReference.cache
+C:\Dotnet Assignments\c#\Assignment03\Assignment03\obj\Debug\Assignment03.csproj.SuggestedBindingRedirects.cache
+C:\Dotnet Assignments\c#\Assignment03\Assignment03\obj\Debug\Assignment03.csproj.CoreCompileInputs.cache
+C:\Dotnet Assignments\c#\Assignment03\Assignment03\obj\Debug\Assignment03.exe
+C:\Dotnet Assignments\c#\Assignment03\Assignment03\obj\Debug\Assignment03.pdb
