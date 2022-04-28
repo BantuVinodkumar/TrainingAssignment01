@@ -1,0 +1,8 @@
+C:\Dotnet Assignments\c#\Assignment04\Assignment04\bin\Debug\Assignment04.exe.config
+C:\Dotnet Assignments\c#\Assignment04\Assignment04\bin\Debug\Assignment04.exe
+C:\Dotnet Assignments\c#\Assignment04\Assignment04\bin\Debug\Assignment04.pdb
+C:\Dotnet Assignments\c#\Assignment04\Assignment04\obj\Debug\Assignment04.csproj.AssemblyReference.cache
+C:\Dotnet Assignments\c#\Assignment04\Assignment04\obj\Debug\Assignment04.csproj.SuggestedBindingRedirects.cache
+C:\Dotnet Assignments\c#\Assignment04\Assignment04\obj\Debug\Assignment04.csproj.CoreCompileInputs.cache
+C:\Dotnet Assignments\c#\Assignment04\Assignment04\obj\Debug\Assignment04.exe
+C:\Dotnet Assignments\c#\Assignment04\Assignment04\obj\Debug\Assignment04.pdb
