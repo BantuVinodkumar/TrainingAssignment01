@@ -1,0 +1,8 @@
+C:\Dotnet Assignments\c#\Assignment06-2\Assignment06-2\bin\Debug\Assignment06-2.exe.config
+C:\Dotnet Assignments\c#\Assignment06-2\Assignment06-2\bin\Debug\Assignment06-2.exe
+C:\Dotnet Assignments\c#\Assignment06-2\Assignment06-2\bin\Debug\Assignment06-2.pdb
+C:\Dotnet Assignments\c#\Assignment06-2\Assignment06-2\obj\Debug\Assignment06-2.csproj.AssemblyReference.cache
+C:\Dotnet Assignments\c#\Assignment06-2\Assignment06-2\obj\Debug\Assignment06-2.csproj.SuggestedBindingRedirects.cache
+C:\Dotnet Assignments\c#\Assignment06-2\Assignment06-2\obj\Debug\Assignment06-2.csproj.CoreCompileInputs.cache
+C:\Dotnet Assignments\c#\Assignment06-2\Assignment06-2\obj\Debug\Assignment06-2.exe
+C:\Dotnet Assignments\c#\Assignment06-2\Assignment06-2\obj\Debug\Assignment06-2.pdb
