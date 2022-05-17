@@ -1,0 +1,8 @@
+C:\Dotnet Assignments\CaseStudy_C#\CaseStudy01\CaseStudy01\bin\Debug\CaseStudy01.exe.config
+C:\Dotnet Assignments\CaseStudy_C#\CaseStudy01\CaseStudy01\bin\Debug\CaseStudy01.exe
+C:\Dotnet Assignments\CaseStudy_C#\CaseStudy01\CaseStudy01\bin\Debug\CaseStudy01.pdb
+C:\Dotnet Assignments\CaseStudy_C#\CaseStudy01\CaseStudy01\obj\Debug\CaseStudy01.csproj.AssemblyReference.cache
+C:\Dotnet Assignments\CaseStudy_C#\CaseStudy01\CaseStudy01\obj\Debug\CaseStudy01.csproj.SuggestedBindingRedirects.cache
+C:\Dotnet Assignments\CaseStudy_C#\CaseStudy01\CaseStudy01\obj\Debug\CaseStudy01.csproj.CoreCompileInputs.cache
+C:\Dotnet Assignments\CaseStudy_C#\CaseStudy01\CaseStudy01\obj\Debug\CaseStudy01.exe
+C:\Dotnet Assignments\CaseStudy_C#\CaseStudy01\CaseStudy01\obj\Debug\CaseStudy01.pdb

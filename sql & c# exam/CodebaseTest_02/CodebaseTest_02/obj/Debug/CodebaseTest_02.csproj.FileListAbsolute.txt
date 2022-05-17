@@ -1,0 +1,8 @@
+C:\Dotnet Assignments\c#\CodebaseTest_02\CodebaseTest_02\bin\Debug\CodebaseTest_02.exe.config
+C:\Dotnet Assignments\c#\CodebaseTest_02\CodebaseTest_02\bin\Debug\CodebaseTest_02.exe
+C:\Dotnet Assignments\c#\CodebaseTest_02\CodebaseTest_02\bin\Debug\CodebaseTest_02.pdb
+C:\Dotnet Assignments\c#\CodebaseTest_02\CodebaseTest_02\obj\Debug\CodebaseTest_02.csproj.AssemblyReference.cache
+C:\Dotnet Assignments\c#\CodebaseTest_02\CodebaseTest_02\obj\Debug\CodebaseTest_02.csproj.SuggestedBindingRedirects.cache
+C:\Dotnet Assignments\c#\CodebaseTest_02\CodebaseTest_02\obj\Debug\CodebaseTest_02.csproj.CoreCompileInputs.cache
+C:\Dotnet Assignments\c#\CodebaseTest_02\CodebaseTest_02\obj\Debug\CodebaseTest_02.exe
+C:\Dotnet Assignments\c#\CodebaseTest_02\CodebaseTest_02\obj\Debug\CodebaseTest_02.pdb
