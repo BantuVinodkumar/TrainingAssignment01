@@ -1,0 +1,7 @@
+C:\Dotnet Assignments\Web Technology\Java Script\JsAssignment01\JsAssignment01\bin\Debug\JsAssignment01.exe.config
+C:\Dotnet Assignments\Web Technology\Java Script\JsAssignment01\JsAssignment01\bin\Debug\JsAssignment01.exe
+C:\Dotnet Assignments\Web Technology\Java Script\JsAssignment01\JsAssignment01\bin\Debug\JsAssignment01.pdb
+C:\Dotnet Assignments\Web Technology\Java Script\JsAssignment01\JsAssignment01\obj\Debug\JsAssignment01.csproj.AssemblyReference.cache
+C:\Dotnet Assignments\Web Technology\Java Script\JsAssignment01\JsAssignment01\obj\Debug\JsAssignment01.csproj.CoreCompileInputs.cache
+C:\Dotnet Assignments\Web Technology\Java Script\JsAssignment01\JsAssignment01\obj\Debug\JsAssignment01.exe
+C:\Dotnet Assignments\Web Technology\Java Script\JsAssignment01\JsAssignment01\obj\Debug\JsAssignment01.pdb
