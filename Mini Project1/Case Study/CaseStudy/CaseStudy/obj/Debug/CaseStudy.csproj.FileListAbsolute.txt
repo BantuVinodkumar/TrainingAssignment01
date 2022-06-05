@@ -1,0 +1,7 @@
+C:\Dotnet Assignments\Mini Project1\Case Study\CaseStudy\CaseStudy\bin\Debug\CaseStudy.exe.config
+C:\Dotnet Assignments\Mini Project1\Case Study\CaseStudy\CaseStudy\bin\Debug\CaseStudy.exe
+C:\Dotnet Assignments\Mini Project1\Case Study\CaseStudy\CaseStudy\bin\Debug\CaseStudy.pdb
+C:\Dotnet Assignments\Mini Project1\Case Study\CaseStudy\CaseStudy\obj\Debug\CaseStudy.csproj.AssemblyReference.cache
+C:\Dotnet Assignments\Mini Project1\Case Study\CaseStudy\CaseStudy\obj\Debug\CaseStudy.csproj.CoreCompileInputs.cache
+C:\Dotnet Assignments\Mini Project1\Case Study\CaseStudy\CaseStudy\obj\Debug\CaseStudy.exe
+C:\Dotnet Assignments\Mini Project1\Case Study\CaseStudy\CaseStudy\obj\Debug\CaseStudy.pdb
