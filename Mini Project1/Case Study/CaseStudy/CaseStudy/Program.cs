@@ -168,7 +168,7 @@ namespace CaseStudy
 
             AppEngine ae = new AppEngine();
 
-            //Enroll e = new Enroll();
+            Enroll e = new Enroll();
             //ae.introduce();
             //ae.register();
 
