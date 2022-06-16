@@ -1,0 +1,7 @@
+C:\Dotnet Assignments\CodeBased exms\CodeBaseTest04\Account\Create_Account\Create_Account\bin\Debug\Create_Account.exe.config
+C:\Dotnet Assignments\CodeBased exms\CodeBaseTest04\Account\Create_Account\Create_Account\bin\Debug\Create_Account.exe
+C:\Dotnet Assignments\CodeBased exms\CodeBaseTest04\Account\Create_Account\Create_Account\bin\Debug\Create_Account.pdb
+C:\Dotnet Assignments\CodeBased exms\CodeBaseTest04\Account\Create_Account\Create_Account\obj\Debug\Create_Account.csproj.AssemblyReference.cache
+C:\Dotnet Assignments\CodeBased exms\CodeBaseTest04\Account\Create_Account\Create_Account\obj\Debug\Create_Account.csproj.CoreCompileInputs.cache
+C:\Dotnet Assignments\CodeBased exms\CodeBaseTest04\Account\Create_Account\Create_Account\obj\Debug\Create_Account.exe
+C:\Dotnet Assignments\CodeBased exms\CodeBaseTest04\Account\Create_Account\Create_Account\obj\Debug\Create_Account.pdb
